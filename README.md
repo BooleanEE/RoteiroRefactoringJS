@@ -2,7 +2,7 @@
 
 **Prof. Marco Tulio Valente**
 
-Nest roteiro, você vai colocar em prática os conceitos de refactoring aprendidos na 
+Neste roteiro, você vai colocar em prática os conceitos de refactoring aprendidos na 
 sala de aula. Para isso, você vai realizar alguns refactorings em um sistema hipotético, 
 também usado no primeiro capítulo da segunda edição do 
 [livro](https://martinfowler.com/books/refactoring.html)
